@@ -1,0 +1,6 @@
+../.venv
+backwb/parser_app/parser.db
+backwb/db.sqlite3
+backwb/wbdjango/migrations
+.idea
+.posts
