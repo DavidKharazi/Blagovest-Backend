@@ -1,6 +1,11 @@
-../.venv
-backwb/parser_app/parser.db
-backwb/db.sqlite3
-backwb/wbdjango/migrations
-.idea
-.posts
+# Игнорировать виртуальное окружение
+.venv/
+
+# Игнорировать директорию с постами
+posts/
+
+# Игнорировать файл базы данных SQLite
+db.sqlite3
+
+# Игнорировать директорию миграций
+migrations/
